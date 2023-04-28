@@ -1,4 +1,4 @@
-## Olá, eu sou Nikolas Menezes 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+Eu+sou+Nikolas+Menezes;Front-End+Developer)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolas-matheus-de-menezes-880a79236/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikolas_menezes/)<br>
@@ -17,4 +17,6 @@
 <img style="align: center;" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node Js"/>
 </div>
 <br>
-<p>Sou apaixonado pelo desenvolvimento e a tecnologia me deu os caminhos para seguir essa paixão!</p>
+Sou apaixonado pelo desenvolvimento e a tecnologia me deu os caminhos para seguir essa paixão!
+
+![](https://komarev.com/ghpvc/?username=NikolasMenezes)
