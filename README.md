@@ -12,11 +12,12 @@
 <div style="display: inline_block">
 <img style="align: center;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img style="align: center;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img style="align: center;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img style="align: center;" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-<img style="align: center;" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node Js"/>
+<img style="align: center;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img style="align: center;" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
+
 </div>
 <br>
-Sou apaixonado pelo desenvolvimento e a tecnologia me deu os caminhos para seguir essa paixão!
+<p style="margin-bottom: 12px;" >Sou apaixonado pelo desenvolvimento e a tecnologia me deu os caminhos para seguir essa paixão!</p>
 
 ![](https://komarev.com/ghpvc/?username=NikolasMenezes)
